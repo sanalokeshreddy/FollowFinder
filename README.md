@@ -66,8 +66,8 @@ Authorization: Bearer <accessToken>
 - **Registration No.**: REG172  
 - **Challenge**: Bajaj Finserv Health – SRM Coding Challenge (April 2025)  
 - **Question Solved**: Q2 - Nth-Level Followers  
-- **GitHub Repo**: *(Insert GitHub Link Here)*  
-- **Raw JAR Link**: *(Insert direct link to JAR file here)*  
+- **GitHub Repo**:  https://github.com/sanalokeshreddy/FollowFinder
+- **Raw JAR Link**: https://github.com/sanalokeshreddy/FollowFinder/raw/main/followerfinder-0.0.1-SNAPSHOT.jar
 
 ---
 
